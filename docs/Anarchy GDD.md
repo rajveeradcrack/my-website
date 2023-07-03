@@ -1,7 +1,5 @@
 # Anarchy GDD
 
-Design Document for: Anarchy 
-
 ## **Game Overview**
 
 ### **Appearance**
@@ -75,15 +73,15 @@ This section contains proposed images for various parts of the in-game user inte
 
 **Image 1 – Main Title Screen**
 
-![login_ui_image copy.jpg](../../Anarchy GDD/login_ui_image_copy.jpg)
+![login_ui_image copy.jpg](..\static\img\login_ui_image_copy.jpg)
 
 **Image 2 – Lobby Panel**
 
-![Lobby2 Copy 2.jpeg](../../Anarchy GDD/Lobby2_Copy_2.jpeg)
+![Lobby2 Copy 2.jpeg](..\static\img\Lobby2_Copy_2.jpeg)
 
 **Image 3 -** **Avatar selection**
 
-![Avatar_selection.png](../../Anarchy GDD/Avatar_selection.png)
+![Avatar_selection.png](..\static\img\Avatar_selection.png)
 
 **Image 4 - The settings**
 
@@ -91,7 +89,7 @@ This section contains proposed images for various parts of the in-game user inte
 
 **Image 5 -** **In-Game User Interface**
 
-![Ingame_UI_V003.jpg](../../Anarchy GDD/Ingame_UI_V003.jpg)
+![Ingame_UI_V003.jpg](..\static\img\Ingame_UI_V003.jpg)
 
 ### **State Transition Diagram**
 
@@ -99,7 +97,7 @@ The state transition diagram given here illustrates the progression of the user 
 
 **Image 6 -** **State Transition Diagram**
 
-![Wireframe_UI_Flow.jpg](../../Anarchy GDD/Wireframe_UI_Flow.jpg)
+![Wireframe_UI_Flow.jpg](..\static\img\Wireframe_UI_Flow.jpg)
 
 ### **Design Rules**
 
@@ -159,19 +157,19 @@ The AI scans for the player where all three checks have to succeed:
 
 The survival map in Anarchy is a challenging and engaging environment for players to explore and fight over. It features a large, open world with a variety of terrain and structures. The player must scavenge for weapons and equipment to survive and defeat other players. The map is denoted by red and purple hues, and architecture is used as puzzles, creating unique ways to move from area to area.
 
-![Battle_Royale_Open_World_V001.jpeg](../../Anarchy GDD/Battle_Royale_Open_World_V001.jpeg)
+![Battle_Royale_Open_World_V001.jpeg](..\static\img\Battle_Royale_Open_World_V001.jpeg)
 
 ### Mission map
 
 In Anarchy, the mission mode involves completing objectives in a designated area. Players start with basic weapons and must scavenge for better gear as they complete objectives and fight against other players. The mission map is designed to be challenging and engaging with strategic locations and structures. Gameplay mechanics are similar to other battle royale games.
 
-![mission.png](../../Anarchy GDD/mission.png)
+![mission.png](..\static\img\mission.png)
 
 ### **Battle Royale**
 
 The Battle Royale map in Anarchy is similar to other games in the genre It features a large, open world with a variety of terrain and structures for players to explore and fight over. The map is designed to be challenging and engaging, with strategic locations and hide out places for players to discover. Players start with basic weapons and equipment and must scavenge for better gear as they fight. The gameplay mechanics and rules in Anarchy's Battle Royale mode are similar to those in other Battle Royale games.
 
-![MapRender_names_v2.jpg](../Anarchy GDD/MapRender_names_v2.jpg)
+![MapRender_names_v2.jpg](..\static\img\MapRender_names_v2.jpg)
 
 ## **Wow Factor**
 
@@ -181,4 +179,4 @@ The player should be fascinated with the look and feel of the alien worlds and t
 
 The below image represents the tools we have use at Anarchy. 
 
-![Techstack.jpg](Anarchy%20GDD%2051c565ae39e0425482aa68cb671e26c9/Anarchy_Tech_Stack_v3 copy (1).jpg)
+![Techstack.jpg](..\static\img\Anarchy_Tech_Stack_v3 copy (1).jpg)
